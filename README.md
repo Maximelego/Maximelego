@@ -1,6 +1,13 @@
-# MARCELIN Maxime
+# Welcome !
 
-## Indie dev
+## About me 
 
-## Trying stuff
+### Student in computer Science
+🏫 - Université de Lorraine, Faculté des Sciences et Technologies.
+🎓 - Bachelor Degree
+
+### Free-time Developper
+📸 - Building a photograph's website
+
+
 
