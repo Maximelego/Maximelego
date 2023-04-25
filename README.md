@@ -4,7 +4,7 @@
 
 ### Student in computer Science
 🏫 - Université de Lorraine, Faculté des Sciences et Technologies.<br/>
-🎓 - Bachelor Degree
+🎓 - Bachelor Degree in Computer Science<br/>
 🖥️ - Currently working as Intern at Home Alliance™ (IT service)
 
 ### Free-time Developper
