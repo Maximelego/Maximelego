@@ -10,10 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Count lines of code
+
+    - name: Install cloc
+      run: |
+        sudo apt-get update
+        sudo apt-get install cloc
+
+    - name: Clone repository
       run: |
         git clone https://github.com/Maximelego/Maximelego.git
-        cloc --by-file-by-lang . > lines_of_code.txt
+
+    - name: Count lines of code
+      run: |
+        cloc --by-file-by-lang Maximelego > lines_of_code.txt
+
     - name: Update README
       run: |
         echo "Total lines of code: $(cat lines_of_code.txt)" >> README.md
