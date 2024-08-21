@@ -16,7 +16,8 @@
 
 ### My GitHub Stats
 
-![Maximelego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true)
+
+[![Maximelego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/Maximelego/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximelego&layout=compact&count_private=true)
 
