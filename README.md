@@ -16,9 +16,9 @@
 
 ### My GitHub Stats
 
-![Maximelego's GitHub Stats](https://github-readme-stats-kappa-ten-79.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)
+![Maximelego's GitHub Stats](https://github-readme-stats-kappa-ten-79.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&layout=compact&count_private=true&theme=darcula)
 
 
 ### Total Lines of Code Committed
