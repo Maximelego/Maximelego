@@ -11,7 +11,8 @@ jobs:
       contents: write
 
     steps:
+      - name: GitHub - Activity - Readme
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@v0.4.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
