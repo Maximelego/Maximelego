@@ -1,35 +1,54 @@
-# Welcome !
+# Welcome to My GitHub Profile!
 
-## About me
+## 👋 About Me
 
-### Student in Computer Science
+### 🎓 Education
 
-🏫 - Université de Lorraine, Faculté des Sciences et Technologies.<br/>
-🎓 - Bachelor Degree in Computer Science<br/>
-🖥️ - Currently working on some projects<br/>
+- **Student in Computer Science** at Université de Lorraine, Faculté des Sciences et Technologies.
+- Pursuing a **Bachelor Degree in Computer Science**.
 
-### Free-time Developer
+### 💼 Current Projects
 
-📸 - Building a photographer's website
+- **Building a Photographer's Website** 📸
+- **Developing a Web Interface for Minecraft Server Management** 🛠️
 
-🛠️ - Building a web interface for managing Minecraft servers
+## 🚀 Projects
 
-### My GitHub Stats
+- **[Photographer's Website](#)**: A website to showcase a photographer's portfolio and services.
+- **[Minecraft Server Management Interface](#)**: A web application to manage and monitor Minecraft servers.
+
+## 🛠️ Skills
+
+- **Programming Languages**: Python, JavaScript, Java
+- **Web Technologies**: HTML, CSS, React, Node.js
+- **Tools**: Git, Docker, VSCode
+
+## 📊 GitHub Stats
 
 ![Maximelego's GitHub Stats](https://github-readme-stats-kappa-ten-79.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=darcula)
 
 ![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&count_private=true&theme=darcula&layout=compact)
 
-
-### Total Lines of Code Committed
-
-*Total Lines of Code:* XXXXXX
-
-### Recent Contributions
+## 📝 Recent Contributions
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### Contact me !
+## 📈 Total Lines of Code
 
-📨 - maisonmarc7@gmail.com
+*Total Lines of Code Committed:* XXXXXX
+
+## 📬 Contact Me
+
+Feel free to reach out to me at: [maisonmarc7@gmail.com](mailto:maisonmarc7@gmail.com)
+<!--
+## 🏆 Achievements
+
+- **Certified [Certification Name]**
+- **Winner of [Hackathon/Competition Name]**
+-->
+
+## 👋 A Little About Me
+
+I'm passionate about coding and tech innovations. When I'm not coding, you'll find me exploring new tech gadgets or playing games.
+
