@@ -5,7 +5,8 @@
 ### 🎓 Education
 
 - **Student in Computer Science** at Université de Lorraine, Faculté des Sciences et Technologies.
-- Pursuing a **Bachelor Degree in Computer Science**.
+- Pursuing a **Master's Degree in Computer Science**.
+- Specializing in Software Engineering.
 
 ### 💼 Current Projects
 
@@ -19,9 +20,9 @@
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, JavaScript, Java
-- **Web Technologies**: HTML, CSS, React, Node.js
-- **Tools**: Git, Docker, VSCode
+- **Programming Languages**: C, Python, JavaScript, Java
+- **Web Technologies**: VueJS, Node.js, FastAPI, SCSS
+- **Tools**: Git, Docker, JetBrains
 
 ## 📊 GitHub Stats
 
