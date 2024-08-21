@@ -18,7 +18,7 @@
 
 ![Maximelego's GitHub Stats](https://github-readme-stats-kappa-ten-79.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=darcula)
 
-![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&count_private=true&theme=darcula)
+![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&count_private=true&theme=darcula&layout=compact)
 
 
 ### Total Lines of Code Committed
