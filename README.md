@@ -16,10 +16,10 @@
 
 ### My GitHub Stats
 
+![Maxime's GitHub Stats](https://vercel-readme-stats-cwwv9y867-maximelegos-projects.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true)
 
-[![Maxime's GitHub Stats]([https://vercel.com/maximelegos-projects/vercel-readme-stats/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true)](https://vercel-readme-stats-cwwv9y867-maximelegos-projects.vercel.app)
+![Top Langs](https://vercel-readme-stats-cwwv9y867-maximelegos-projects.vercel.app/api/top-langs/?username=Maximelego&layout=compact&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maximelego&layout=compact&count_private=true)
 
 ### Total Lines of Code Committed
 
