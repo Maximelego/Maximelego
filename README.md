@@ -1,14 +1,12 @@
 # Welcome to My GitHub Profile!
 
-## 👋 About Me
-
-### 🎓 Education
+## 🎓 Education
 
 - **Student in Computer Science** at Université de Lorraine, Faculté des Sciences et Technologies.
 - Pursuing a **Master's Degree in Computer Science**.
 - Specializing in Software Engineering.
 
-### 💼 Current Projects
+## 💼 Current Projects
 
 - **Building a Photographer's Website** 📸
 - **Developing a Web Interface for Minecraft Server Management** 🛠️
