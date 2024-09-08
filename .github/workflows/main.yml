@@ -1,8 +1,6 @@
 name: Count lines in all repos
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
