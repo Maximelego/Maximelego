@@ -31,7 +31,7 @@
 ## 📝 Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/desaleo/is-even/pull/5#issuecomment-2376033727) in [desaleo/is-even](https://github.com/desaleo/is-even)
+1. ❗ Opened issue [#10](https://github.com/Sobek-W-A/edt-manager-frontend/issues/10) in [Sobek-W-A/edt-manager-frontend](https://github.com/Sobek-W-A/edt-manager-frontend)
 <!--END_SECTION:activity-->
 
 ## 📈 Total Lines of Code
