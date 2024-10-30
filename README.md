@@ -31,7 +31,7 @@
 ## 📝 Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/Maximelego/Technos-web-project/issues/7) in [Maximelego/Technos-web-project](https://github.com/Maximelego/Technos-web-project)
+1. ❗ Opened issue [#8](https://github.com/Maximelego/Technos-web-project/issues/8) in [Maximelego/Technos-web-project](https://github.com/Maximelego/Technos-web-project)
 <!--END_SECTION:activity-->
 
 ## 📈 Total Lines of Code
