@@ -31,7 +31,7 @@
 ## 📝 Recent Contributions
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#18](https://github.com/Sobek-W-A/edt-manager-frontend/issues/18) in [Sobek-W-A/edt-manager-frontend](https://github.com/Sobek-W-A/edt-manager-frontend)
+1. ❗ Opened issue [#7](https://github.com/Maximelego/Technos-web-project/issues/7) in [Maximelego/Technos-web-project](https://github.com/Maximelego/Technos-web-project)
 <!--END_SECTION:activity-->
 
 ## 📈 Total Lines of Code
