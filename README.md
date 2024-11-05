@@ -31,7 +31,7 @@
 ## 📝 Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Maximelego/Technos-web-project/pull/10) in [Maximelego/Technos-web-project](https://github.com/Maximelego/Technos-web-project)
+1. ❗ Opened issue [#40](https://github.com/Sobek-W-A/edt-manager-backend/issues/40) in [Sobek-W-A/edt-manager-backend](https://github.com/Sobek-W-A/edt-manager-backend)
 <!--END_SECTION:activity-->
 
 ## 📈 Total Lines of Code
