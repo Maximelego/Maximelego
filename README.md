@@ -31,7 +31,7 @@
 ## 📝 Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#53](https://github.com/Sobek-W-A/edt-manager-frontend/pull/53) in [Sobek-W-A/edt-manager-frontend](https://github.com/Sobek-W-A/edt-manager-frontend)
+1. 🔒 Closed issue [#57](https://github.com/Sobek-W-A/edt-manager-backend/issues/57) in [Sobek-W-A/edt-manager-backend](https://github.com/Sobek-W-A/edt-manager-backend)
 <!--END_SECTION:activity-->
 
 ## 📈 Total Lines of Code
