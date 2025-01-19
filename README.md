@@ -31,7 +31,7 @@
 ## 📝 Recent Contributions
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#63](https://github.com/Sobek-W-A/edt-manager-backend/issues/63) in [Sobek-W-A/edt-manager-backend](https://github.com/Sobek-W-A/edt-manager-backend)
+1. 🔒 Closed issue [#80](https://github.com/Sobek-W-A/edt-manager-backend/issues/80) in [Sobek-W-A/edt-manager-backend](https://github.com/Sobek-W-A/edt-manager-backend)
 <!--END_SECTION:activity-->
 
 ## 📈 Total Lines of Code
