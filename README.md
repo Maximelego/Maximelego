@@ -35,7 +35,7 @@ I enjoy working across **backend, frontend, DevOps, and infrastructure**, and I 
 ---
 
 ## 🚀 Main Projects
-- **[Forum Emploi Platform](#)** 🔗  
+- **[Forum Emploi Platform](https://forum-emploi.enstib.univ-lorraine.fr)** 🔗  
   Multi-service solution for job-forum management (students, companies, administrators).  
   Stack: *VueJS, FastAPI, PostgreSQL, Docker, NGINX, Redis, MinIO*.  
 
