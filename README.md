@@ -1,54 +1,80 @@
-# Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
+
+## 👨‍💻 About Me
+I'm **Maxime Marcelin**, a passionate **Software Engineering student** (Master’s degree in Computer Science, Université de Lorraine).  
+I specialize in **designing, developing, deploying, and maintaining distributed software systems**.  
+
+I enjoy working across **backend, frontend, DevOps, and infrastructure**, and I value building reliable, maintainable solutions that help people.  
+
+---
 
 ## 🎓 Education
+- 🎓 **Master’s Degree in Computer Science** (2023 – 2025)  
+  *Université de Lorraine – Software Engineering specialization*  
+- 🎓 **Bachelor’s Degree in Computer Science** (2020 – 2023)  
+  *Université de Lorraine – Compilation & Computer Graphics option*  
+- 🎓 **Scientific Baccalauréat** (2018 – 2020)  
+  *Specialization: Engineering Sciences, Digital Systems option*  
 
-- **Student in Computer Science** at Université de Lorraine, Faculté des Sciences et Technologies.
-- Pursuing a **Master's Degree in Computer Science**.
-- Specializing in Software Engineering.
+---
 
-## 💼 Current Projects
+## 💼 Experience
+- **ENSTIB – Epinal** (Internship + Fixed-term contract, 7 months)  
+  - Developed a **complete platform for managing the annual Job Forum** (multi-API system, VueJS frontend, FastAPI backend, PostgreSQL, Docker, NGINX).  
+  - Integrated **authentication services** reused across other ENSTIB projects (Ponct’UL).  
+  - Contributed to the **maintenance of ENSTIB’s network infrastructure**.  
 
-- **Building a Photographer's Website** 📸
-- **Developing a Web Interface for Minecraft Server Management** 🛠️
+- **Home Alliance – Laxou** (6-month internship)  
+  - **Refactored a CRM tool**: architecture, development, and design.  
+  - Managed and upgraded the **IT infrastructure** (installations, updates, maintenance).  
 
-## 🚀 Projects
+- **Gedimat Derrey – Epinal** (3-month mission)  
+  - Handled **database re-referencing and updates** following site restructuring.  
+  - Conducted basic IT monitoring and support tasks.  
 
-- **[Photographer's Website](#)**: A website to showcase a photographer's portfolio and services.
-- **[Minecraft Server Management Interface](#)**: A web application to manage and monitor Minecraft servers.
+---
+
+## 🚀 Main Projects
+- **[Forum Emploi Platform](#)** 🔗  
+  Multi-service solution for job-forum management (students, companies, administrators).  
+  Stack: *VueJS, FastAPI, PostgreSQL, Docker, NGINX, Redis, MinIO*.  
+
+- **[Hexenis](#)** *(Work in progress)* ⚙️  
+  A **web platform for server management** (deployment, instance creation, updates).  
+  Initially designed for **Minecraft server management** with VueJS frontend + FastAPI backend.  
+
+- **[Prehistorik Remake](#)** 🎮 *(C project)*  
+  Recreation of the classic **Prehistorik game** (originally DOS/Titus) using **C + SDL2**.  
+
+---
 
 ## 🛠️ Skills
 
-- **Programming Languages**: C, Python, JavaScript, Java
-- **Web Technologies**: VueJS, Node.js, FastAPI, SCSS
-- **Tools**: Git, Docker, JetBrains
+- **Languages**:  
+  C, C++, C#, Python, Java, JavaScript, TypeScript, PHP, Haskell, Rust, SQL, Bash, Powershell  
+
+- **Frameworks & Tools**:  
+  FastAPI, SpringBoot, VueJS, React, Angular, NestJS, NodeJS, Docker, Git  
+
+- **Databases**:  
+  PostgreSQL, MongoDB, MySQL, SQLite  
+
+- **Other**:  
+  Distributed systems, DevOps practices, Networking basics  
+
+---
 
 ## 📊 GitHub Stats
+![Maximelego's GitHub Stats](https://github-readme-stats-kappa-ten-79.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=darcula)  
 
-![Maximelego's GitHub Stats](https://github-readme-stats-kappa-ten-79.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=darcula)
+![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&count_private=true&theme=darcula&layout=compact)  
 
-![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&count_private=true&theme=darcula&layout=compact)
+---
 
-## 📝 Recent Contributions
+## 📬 Contact
+📧 [maisonmarc7@gmail.com](mailto:maisonmarc7@gmail.com)  
+🌐 [LinkedIn](#) | [GitHub](https://github.com/Maximelego)  
 
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#102](https://github.com/Sobek-W-A/edt-manager-backend/issues/102) in [Sobek-W-A/edt-manager-backend](https://github.com/Sobek-W-A/edt-manager-backend)
-<!--END_SECTION:activity-->
+---
 
-## 📈 Total Lines of Code
-
-*Total Lines of Code Committed:* XXXXXX
-
-## 📬 Contact Me
-
-Feel free to reach out to me at: [maisonmarc7@gmail.com](mailto:maisonmarc7@gmail.com)
-<!--
-## 🏆 Achievements
-
-- **Certified [Certification Name]**
-- **Winner of [Hackathon/Competition Name]**
--->
-
-## 👋 A Little About Me
-
-I'm passionate about coding and tech innovations. When I'm not coding, you'll find me exploring new tech gadgets or playing games.
-
+👉 Outside of coding, I’m passionate about **astronomy, applied physics, audiovisual projects, and judo** (brown belt).  
