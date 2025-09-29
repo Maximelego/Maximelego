@@ -73,7 +73,7 @@ I enjoy working across **backend, frontend, DevOps, and infrastructure**, and I 
 
 ## 📬 Contact
 📧 [maisonmarc7@gmail.com](mailto:maisonmarc7@gmail.com)  
-🌐 [LinkedIn](#) | [GitHub](https://github.com/Maximelego)  
+🌐 [LinkedIn](https://www.linkedin.com/in/maxime-marcelin-a7b53225a/) | [GitHub](https://github.com/Maximelego)  
 
 ---
 
