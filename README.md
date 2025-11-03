@@ -1,80 +1,89 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 👨‍💻 About Me
-I'm **Maxime Marcelin**, a passionate **Software Engineering student** (Master’s degree in Computer Science, Université de Lorraine).  
-I specialize in **designing, developing, deploying, and maintaining distributed software systems**.  
+I’m **Maxime Marcelin**, a **Full-Stack Developer and Software Engineer** passionate about building **well-designed, reliable, and maintainable applications**.  
+I enjoy understanding how systems work from the ground up — backend architecture, automation, and frontend integration included.  
 
-I enjoy working across **backend, frontend, DevOps, and infrastructure**, and I value building reliable, maintainable solutions that help people.  
+My focus: **clarity, consistency, and strong typing**.  
+I like to make things work *and* make sense.
 
 ---
 
-## 🎓 Education
-- 🎓 **Master’s Degree in Computer Science** (2023 – 2025)  
-  *Université de Lorraine – Software Engineering specialization*  
-- 🎓 **Bachelor’s Degree in Computer Science** (2020 – 2023)  
-  *Université de Lorraine – Compilation & Computer Graphics option*  
-- 🎓 **Scientific Baccalauréat** (2018 – 2020)  
-  *Specialization: Engineering Sciences, Digital Systems option*  
+## 🧠 What I’m Working On
+- Building **robust web platforms** with **FastAPI, Vue 3, and PostgreSQL**  
+- Designing **modular architectures** and **automating deployments** with Docker & GitLab CI/CD  
+- Exploring **low-level programming** (C, Rust) and performance optimization  
 
 ---
 
 ## 💼 Experience
-- **ENSTIB – Epinal** (Internship + Fixed-term contract, 7 months)  
-  - Developed a **complete platform for managing the annual Job Forum** (multi-API system, VueJS frontend, FastAPI backend, PostgreSQL, Docker, NGINX).  
-  - Integrated **authentication services** reused across other ENSTIB projects (Ponct’UL).  
-  - Contributed to the **maintenance of ENSTIB’s network infrastructure**.  
 
-- **Home Alliance – Laxou** (6-month internship)  
-  - **Refactored a CRM tool**: architecture, development, and design.  
-  - Managed and upgraded the **IT infrastructure** (installations, updates, maintenance).  
+### 🏫 ENSTIB (Université de Lorraine) — *Full-Stack Developer / Research Engineer*  
+*Internship + Fixed-Term Contract (7 months – 2025)*  
+- Developed a complete platform for the annual **Forum Emplois-Stages**, connecting students and companies  
+- Designed a **multi-API architecture**, CI/CD pipelines, and HTTPS reverse proxy with NGINX  
+- Created advanced modules: scheduling, evaluation grids, statistics dashboards, and interactive documentation  
+🟠 *Used in production yearly by ENSTIB staff and partners*
 
-- **Gedimat Derrey – Epinal** (3-month mission)  
-  - Handled **database re-referencing and updates** following site restructuring.  
-  - Conducted basic IT monitoring and support tasks.  
-
----
-
-## 🚀 Main Projects
-- **[Forum Emploi Platform](https://forum-emploi.enstib.univ-lorraine.fr)** 🔗  
-  Multi-service solution for job-forum management (students, companies, administrators).  
-  Stack: *VueJS, FastAPI, PostgreSQL, Docker, NGINX, Redis, MinIO*.  
-
-- **[Hexenis](#)** *(Work in progress)* ⚙️  
-  A **web platform for server management** (deployment, instance creation, updates).  
-  Initially designed for **Minecraft server management** with VueJS frontend + FastAPI backend.  
-
-- **[Prehistorik Remake](#)** 🎮 *(C project)*  
-  Recreation of the classic **Prehistorik game** (originally DOS/Titus) using **C + SDL2**.  
+### 🏢 Home Alliance — *Full-Stack Developer*  
+*Internship (6 months – 2023)*  
+- **Redesigned an outdated internal CRM** (“Liste Prospect”) using FastAPI, PostgreSQL, Redis, and Vue 3  
+- Implemented secure authentication (OAuth2 + JWT) and containerized deployment with Docker  
+- First complete **end-to-end** web app design experience, foundational to my current workflow  
 
 ---
 
-## 🛠️ Skills
+## 🧩 Key Projects
 
-- **Languages**:  
-  C, C++, C#, Python, Java, JavaScript, TypeScript, PHP, Haskell, Rust, SQL, Bash, Powershell  
+### 🌐 [Forum Emplois-Stages](https://forum-emploi.enstib.univ-lorraine.fr)
+Multi-role web platform for managing interviews and job fair events (FastAPI, Vue 3, Docker, PostgreSQL, Redis, NGINX).  
+**Used in production by ENSTIB** to manage hundreds of meetings between companies and students.
 
-- **Frameworks & Tools**:  
-  FastAPI, SpringBoot, VueJS, React, Angular, NestJS, NodeJS, Docker, Git  
+### ⚙️ [Hexenis](#)
+Personal project – A private multi-server platform providing custom tools (Markdown & LaTeX editors, streaming, Minecraft server management).  
+Focus: backend architecture, automation, and deployment management.
 
-- **Databases**:  
-  PostgreSQL, MongoDB, MySQL, SQLite  
+### 📊 [Sobek W.A](#)
+University project – Web application for **managing teachers’ workload quotas** (FastAPI, PostgreSQL, Vue 3, Redis).  
+Focus: database modeling, scheduling logic, and access control.
 
-- **Other**:  
-  Distributed systems, DevOps practices, Networking basics  
+### 🧮 [Collaborative Spreadsheet](#)
+Real-time spreadsheet app inspired by Google Sheets with live cell updates and user sync (Vue 3, Node.js, WebSocket).  
+Focus: reactive state management and concurrency.
+
+### 🗓️ [Technos Web](#)
+Web platform for **university timetable management** (NestJS, Angular, Redis, PostgreSQL).  
+Focus: modular frontend and structured REST API.
+
+### 🎮 [Prehistorik Remake](#)
+Recreation of the classic *Prehistorik* game (DOS/Titus) using **C + SDL2**.  
+Focus: game loop, collision logic, and low-level resource handling.
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+| Domain | Technologies |
+|--------|---------------|
+| **Languages** | Python, TypeScript, C, SQL, Bash, C# |
+| **Frameworks & Tools** | FastAPI, Vue 3, Docker, NGINX, GitLab CI/CD |
+| **Databases** | PostgreSQL, Redis, SQLite |
+| **Concepts** | API design, strong typing, containerization, automation |
+| **Other Interests** | Systems programming (C/Rust), DevOps, clean architecture |
+
+---
+
+## 📈 GitHub Stats
+
 ![Maximelego's GitHub Stats](https://github-readme-stats-kappa-ten-79.vercel.app/api?username=Maximelego&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=darcula)  
-
-![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&count_private=true&theme=darcula&layout=compact)  
+![Top Langs](https://github-readme-stats-kappa-ten-79.vercel.app/api/top-langs/?username=Maximelego&count_private=true&theme=darcula&layout=compact)
 
 ---
 
 ## 📬 Contact
 📧 [maisonmarc7@gmail.com](mailto:maisonmarc7@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/maxime-marcelin-a7b53225a/) | [GitHub](https://github.com/Maximelego)  
+🌐 [LinkedIn](https://www.linkedin.com/in/maxime-marcelin-a7b53225a/) | [GitHub](https://github.com/Maximelego)
 
 ---
 
-👉 Outside of coding, I’m passionate about **astronomy, applied physics, audiovisual projects, and judo** (brown belt).  
+> Outside of development, I’m passionate about **astronomy, applied physics, cooking, and judo (brown belt)** — and always curious to learn something new every day.
