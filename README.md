@@ -104,6 +104,8 @@ I love designing systems that make sense, are enjoyable to maintain, and stand t
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Maximelego&theme=darcula&hide_border=true" />
 </p>
 
+<!--START_SECTION:activity-->
+
 ---
 
 ## 📬 Contact
