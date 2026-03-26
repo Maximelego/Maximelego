@@ -10,7 +10,7 @@
 <p align="center">
   <a href="mailto:maisonmarc7@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/maxime-marcelin-a7b53225a/">💼 LinkedIn</a> •
-  <a href="https://github.com/Maximelego">🌐 GitHub</a>
+  <a href="https://marcelin-maxime.hexenis.fr">🌐 Portfolio</a>
 </p>
 
 ---
